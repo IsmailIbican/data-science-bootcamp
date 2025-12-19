@@ -34,4 +34,4 @@ This section contains practical mini-projects and data analysis notebooks. It co
 To maintain a lightweight repository, large datasets (`.csv` files) are not hosted here. Please refer to the inner README files for instructions on how to obtain the necessary data for the examples.
 
 ---
-*Maintained by [Senin Adın/Github Adın]*
+*Maintained by [İsmail İbican]*

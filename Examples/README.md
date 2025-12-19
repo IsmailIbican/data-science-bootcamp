@@ -8,7 +8,7 @@ It covers the full data pipeline including **data cleaning, visualization, and m
 
 To optimize the repository size, large datasets (e.g., `.csv`, `.xlsx` files) are generally **NOT included** in this repository.
 
-** regarding missing files:**
+**regarding missing files:**
 Since some of these projects are from earlier learning stages, **certain specific CSV files may no longer be available** in the archive. 
 * In such cases, the code serves as a **logic and syntax reference**.
 * If you wish to run them, you may need to substitute the missing file with a compatible dataset of your own.
